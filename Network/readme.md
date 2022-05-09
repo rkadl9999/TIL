@@ -1,1 +1,1 @@
-Network
+Network Basic
