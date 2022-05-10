@@ -1,2 +1,2 @@
 # TIL
-Study about Security
+보안 공부 끄적이기
